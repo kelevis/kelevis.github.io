@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>我的全新 Hugo 网站</title>
+        <title>kelevis</title>
         <link>https://kelevis.github.io/</link>
-        <description>我的全新 Hugo 网站</description>
+        <description>kelevis</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kelevis@gmail.com (kelevis)</managingEditor>
             <webMaster>kelevis@gmail.com (kelevis)</webMaster><lastBuildDate>Thu, 07 Mar 2024 15:10:42 &#43;0800</lastBuildDate>
             <atom:link href="https://kelevis.github.io/index.xml" rel="self" type="application/rss+xml" />
