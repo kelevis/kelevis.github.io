@@ -4,7 +4,14 @@
         <link>https://kelevis.github.io/posts/</link>
         <description>所有文章 | kelevis</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kevin.leee1128@gmail.com (kelevis)</managingEditor>
-            <webMaster>kevin.leee1128@gmail.com (kelevis)</webMaster><lastBuildDate>Tue, 27 Feb 2024 15:43:59 &#43;0800</lastBuildDate><atom:link href="https://kelevis.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>kevin.leee1128@gmail.com (kelevis)</webMaster><lastBuildDate>Mon, 11 Mar 2024 11:13:39 &#43;0800</lastBuildDate><atom:link href="https://kelevis.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>My React Demo</title>
+    <link>https://kelevis.github.io/posts/my-react-demo/</link>
+    <pubDate>Mon, 11 Mar 2024 11:13:39 &#43;0800</pubDate><author>
+        <name>kelevis</name>
+    </author><guid>https://kelevis.github.io/posts/my-react-demo/</guid>
+    <description><![CDATA[React demo#####react demo: Hello Word]]></description>
+</item><item>
     <title>My First Post</title>
     <link>https://kelevis.github.io/posts/my-first-post/</link>
     <pubDate>Tue, 27 Feb 2024 15:43:59 &#43;0800</pubDate><author>
