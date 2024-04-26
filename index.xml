@@ -4,9 +4,16 @@
         <link>https://kelevis.github.io/</link>
         <description>kelevis</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>iskelevis@gmail.com (kelevis)</managingEditor>
-            <webMaster>iskelevis@gmail.com (kelevis)</webMaster><lastBuildDate>Wed, 24 Apr 2024 18:18:43 &#43;0800</lastBuildDate>
+            <webMaster>iskelevis@gmail.com (kelevis)</webMaster><lastBuildDate>Thu, 25 Apr 2024 11:59:34 &#43;0800</lastBuildDate>
             <atom:link href="https://kelevis.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Hugo博客搭建</title>
+    <link>https://kelevis.github.io/posts/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+    <pubDate>Thu, 25 Apr 2024 11:59:34 &#43;0800</pubDate><author>
+        <name>kelevis</name>
+    </author><guid>https://kelevis.github.io/posts/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
+    <description><![CDATA[1.查看 Hugo 版本查看 Hugo 是否安装成功，显示 Hugo 版本号代表 Hugo 安装成功 hugo version 2.用 Hugo 创建文章:hugo new ./posts/name.md 3.本地调试和预览在发布到网站前可以在本地预览]]></description>
+</item><item>
     <title>Metamask invoke</title>
     <link>https://kelevis.github.io/posts/metamask/</link>
     <pubDate>Wed, 24 Apr 2024 18:18:43 &#43;0800</pubDate><author>
