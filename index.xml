@@ -4,42 +4,49 @@
         <link>https://kelevis.github.io/</link>
         <description>kelevis</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>iskelevis@gmail.com (kelevis)</managingEditor>
-            <webMaster>iskelevis@gmail.com (kelevis)</webMaster><lastBuildDate>Thu, 25 Apr 2024 11:59:34 &#43;0800</lastBuildDate>
+            <webMaster>iskelevis@gmail.com (kelevis)</webMaster><lastBuildDate>Thu, 16 May 2024 10:22:25 &#43;0800</lastBuildDate>
             <atom:link href="https://kelevis.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Hugo博客搭建</title>
-    <link>https://kelevis.github.io/posts/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+    <title>06.游览器渲染过程</title>
+    <link>https://kelevis.github.io/posts/06.%E6%B8%B8%E8%A7%88%E5%99%A8%E6%B8%B2%E6%9F%93%E8%BF%87%E7%A8%8B/</link>
+    <pubDate>Thu, 16 May 2024 10:22:25 &#43;0800</pubDate><author>
+        <name>kelevis</name>
+    </author><guid>https://kelevis.github.io/posts/06.%E6%B8%B8%E8%A7%88%E5%99%A8%E6%B8%B2%E6%9F%93%E8%BF%87%E7%A8%8B/</guid>
+    <description><![CDATA[1.简介浏览器要渲染页面，需要我们告诉它要渲染哪个页面，因此我们需要输入地址，然后浏览器向服务器请求资源，服务器把资源给到浏览器后，浏览器开]]></description>
+</item><item>
+    <title>05.Hugo博客搭建</title>
+    <link>https://kelevis.github.io/posts/05.hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
     <pubDate>Thu, 25 Apr 2024 11:59:34 &#43;0800</pubDate><author>
         <name>kelevis</name>
-    </author><guid>https://kelevis.github.io/posts/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
+    </author><guid>https://kelevis.github.io/posts/05.hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
     <description><![CDATA[1.查看 Hugo 版本查看 Hugo 是否安装成功，显示 Hugo 版本号代表 Hugo 安装成功 hugo version 2.用 Hugo 创建文章:hugo new ./posts/name.md 3.本地调试和预览在发布到网站前可以在本地预览]]></description>
 </item><item>
-    <title>Metamask invoke</title>
-    <link>https://kelevis.github.io/posts/metamask/</link>
+    <title>04.Metamask invoke</title>
+    <link>https://kelevis.github.io/posts/04.metamask/</link>
     <pubDate>Wed, 24 Apr 2024 18:18:43 &#43;0800</pubDate><author>
         <name>kelevis</name>
-    </author><guid>https://kelevis.github.io/posts/metamask/</guid>
+    </author><guid>https://kelevis.github.io/posts/04.metamask/</guid>
     <description><![CDATA[Metamask demo→→ Metamask demo: Metamask]]></description>
 </item><item>
-    <title>Nextjs</title>
-    <link>https://kelevis.github.io/posts/nextjs/</link>
+    <title>03.Nextjs</title>
+    <link>https://kelevis.github.io/posts/03.nextjs/</link>
     <pubDate>Tue, 02 Apr 2024 17:38:05 &#43;0800</pubDate><author>
         <name>kelevis</name>
-    </author><guid>https://kelevis.github.io/posts/nextjs/</guid>
+    </author><guid>https://kelevis.github.io/posts/03.nextjs/</guid>
     <description><![CDATA[Nextjs demoDashBoard demo: DashBoard]]></description>
 </item><item>
-    <title>My React Demo</title>
-    <link>https://kelevis.github.io/posts/my-react-demo/</link>
+    <title>02.My React Demo</title>
+    <link>https://kelevis.github.io/posts/02.my-react-demo/</link>
     <pubDate>Mon, 11 Mar 2024 11:13:39 &#43;0800</pubDate><author>
         <name>kelevis</name>
-    </author><guid>https://kelevis.github.io/posts/my-react-demo/</guid>
+    </author><guid>https://kelevis.github.io/posts/02.my-react-demo/</guid>
     <description><![CDATA[React demoreact demo: Hello Word]]></description>
 </item><item>
-    <title>My First Post</title>
-    <link>https://kelevis.github.io/posts/my-first-post/</link>
+    <title>01.My First Post</title>
+    <link>https://kelevis.github.io/posts/01.my-first-post/</link>
     <pubDate>Tue, 27 Feb 2024 15:43:59 &#43;0800</pubDate><author>
         <name>kelevis</name>
-    </author><guid>https://kelevis.github.io/posts/my-first-post/</guid>
+    </author><guid>https://kelevis.github.io/posts/01.my-first-post/</guid>
     <description><![CDATA[Hi there 👋I’m kelevis, there are some situation of mine.
 🔭 I&rsquo;m focusing on Golang, React, Web3 …
 📫 Reach me Here, github, blog , Email
